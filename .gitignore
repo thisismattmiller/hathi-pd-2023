@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.DS_Store
+classify_by_oclc/
+data/
+lccn/
+hashdata/
 # C extensions
 *.so
 
