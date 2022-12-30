@@ -6,7 +6,7 @@ __pycache__/
 classify_by_oclc/
 data/
 lccn/
-hashdata/
+
 # C extensions
 *.so
 
